@@ -1,4 +1,4 @@
-This Docker Compose file sets up Elastic stack (ELK stack) and syncs MySQL data
+This Docker Compose file sets up Elastic stack (ELK stack) and syncs Oracle data
 into elasticsearch. The Logstash pipeline configuration file is currently set to
 sync every minute and avoids duplication of data. You can learn more about
 Logstash pipeline configuration files at
